@@ -2,7 +2,13 @@
 
 ![Citi-Bank](https://user-images.githubusercontent.com/83512824/146659476-5749e99a-760b-4a1d-8684-b7eb181882bd.jpeg)
 
-## Data Manipulation
+## Summary
+
+*Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
+
+## Data
+
+*
 
 ## Tableau Dashboards
 
