@@ -6,16 +6,18 @@
 
 *Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-## Data
+## Data Manipulation
 
-*
+*Used the data from April 2019 and September 2015. I imported these CSV files into Tableau. I then joined these tables in tableau so I could start creating the various graphs and dashboards. 
 
 ## Tableau Dashboards
 
 * https://public.tableau.com/app/profile/cody.gardner/viz/GeorgiaTechDataVisualizationTableauHomework/Dashboard2?publish=yes
 
-## What is the trend with bike rentals in relation to age? Which age group is renting the most bikes? 
+## Bike Rentals based on age
 Based on the chart in sheet “Ride Count by Age”; people who are between the ages of 30 to 40 are renting the bikes the most out of all of the other age groups. The older the age, the lower the number of bike rentals. 
+
+![Ride Count by Age](https://user-images.githubusercontent.com/83512824/146660654-9224783a-0c07-4397-894c-b8bc219edce2.png)
 
 ## What are the peak hours in which bikes are used during summer months?
 The peak hours for bikes to get rented during the summer months is from 8 a.m. to 6 p.m. These data points make sense, as people typically get to work around 9 a.m. and leave by 5:30 or 6 p.m. everyday. 
