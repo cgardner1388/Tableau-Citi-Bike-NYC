@@ -28,12 +28,16 @@ A large majority of the renters is male as they make up 60% of the ride count. I
 ![Ride Count by Gender](https://user-images.githubusercontent.com/83512824/146660760-00fb9929-6994-46c6-acec-201828f499d5.png)
 
 ## Largest Bike Count by Station
-Grave St. Path and Hamilton Park are the two largest stations in regards to bike count. This is because of their location as they are the closest to Long Island in New York City. 
+Grave St. Path and Hamilton Park are the two largest stations baesd on bike count. This is because of their location as they are the closest to Long Island in New York City. 
 
 ![Map Bike Station April - 2019](https://user-images.githubusercontent.com/83512824/146660809-e04b0e1f-f4db-4c7d-875a-8c4f1e64cec5.png)
+
+![Ride Count by Station](https://user-images.githubusercontent.com/83512824/146660950-26140305-cfe4-4fe0-9f66-2507aaa22b9f.png)
 
 ## Tableau Dashboards
 
 * https://public.tableau.com/app/profile/cody.gardner/viz/GeorgiaTechDataVisualizationTableauHomework/Dashboard2?publish=yes
+
+![Dashboard 2](https://user-images.githubusercontent.com/83512824/146660971-c7f105cc-4f7b-4086-81f2-e1debb353c5e.png)
 
 
